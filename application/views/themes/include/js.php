@@ -1,0 +1,18 @@
+<script src="<?php echo base_url();?>media/assets/vendors/jquery/jquery-3.6.0.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/jarallax/jarallax.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/jquery-appear/jquery.appear.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/jquery-validate/jquery.validate.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/nouislider/nouislider.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/odometer/odometer.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/swiper/swiper.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/wnumb/wNumb.min.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/wow/wow.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/isotope/isotope.js"></script>
+    <script src="<?php echo base_url();?>media/assets/vendors/countdown/countdown.min.js"></script>
+    <!-- template js -->
+    <script src="<?php echo base_url();?>media/assets/js/finlon.js"></script>
